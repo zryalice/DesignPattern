@@ -1,4 +1,4 @@
-package com.code.singleton;
+package com.code.singleton.single;
 
 /**
  * //饿汉式（静态变量）   会造成内存浪费，

@@ -3,7 +3,7 @@ package com.principal.single;
 /**
  * 方案2：
  * 遵守单一原则 ，
- * 可以写多个方法， 但是改动很大，可以直接修改成方法级别， 详看singleresponsibility3
+ * 可以写多个类， 但是改动很大，可以直接修改成方法级别， 详看singleresponsibility3
  */
 public class SingleResponsibility2 {
     public static void main(String[] args) {

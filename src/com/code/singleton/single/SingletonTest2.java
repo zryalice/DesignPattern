@@ -1,4 +1,4 @@
-package com.code.singleton;
+package com.code.singleton.single;
 
 /**
  * 和SingletonTest1 的方式类似，只不过在类实例化过程放在了静态代码块。在类加载的时候，就执行静态代码块中的代码，初始化类的实例。
